@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Spawn Coin" tilewidth="32" tileheight="32">
+  <image source="coinspawn.png" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="202"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="Spawn Aggressor" tilewidth="32" tileheight="32">
+  <image source="aggressorspawn.png" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="102"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="Spawn Wanderer" tilewidth="32" tileheight="32">
+  <image source="spawnwanderer.jpg" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="101"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="4" name="Spawn Berry Bush" tilewidth="32" tileheight="32">
+  <image source="spawnberrybush.jpg" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="201"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="5" name="Long Grass" tilewidth="32" tileheight="32">
+  <image source="Long Grass.jpg" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="301"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="6" name="Wooden Wall" tilewidth="32" tileheight="32">
+  <image source="wooden wall.jpg" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="7" name="Stone Wall" tilewidth="32" tileheight="32">
+  <image source="stone_wall.png" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="8" name="Mountains" tilewidth="32" tileheight="32">
+  <image source="Granite.jpg" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="9" name="Dungeon Floor" tilewidth="32" tileheight="32">
+  <image source="dungeonfloor.png" trans="ff00ff" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="ID" value="302"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzNlcESwyAIRNU24+T/f7jtoRcGcMHVeGBMHInPhTW9lNIPj/qNKxG/3HtxdGPvlzL3PogP0e4fJ/Jdg28yw6rfqOYeXxPv2horV57z1PrO8O3wh8en+TfLt6u+u+5jhE/zijwzqgs61wy+kW8RLzSxb3PWsv2B9Eqm16J8lic8vmhPzfjDe7byZzRleEebZ/RfRD9UG6Z+kf6L5jD6bwUfUusn9Yvcf4yI8GlrmVox+Kx8Rr91ZUS/Fb1jZ7SKnlX+s7P6r6ovgyFzPlQ/BtuIQ85VUBtW/SL6SbYR387a16IzZvdm1f42RrQ/n4wPj/QkwQ==
+  </data>
+ </layer>
+</map>

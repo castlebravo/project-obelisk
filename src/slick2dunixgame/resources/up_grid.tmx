@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Dungeon Ground.tsx"/>
+ <tileset firstgid="2" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/GraniteWall.tsx"/>
+ <tileset firstgid="3" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Long Grass.tsx"/>
+ <tileset firstgid="4" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Spawn Aggressor.tsx"/>
+ <tileset firstgid="5" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Spawn Berry Bush.tsx"/>
+ <tileset firstgid="6" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Spawn Coin.tsx"/>
+ <tileset firstgid="7" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Spawn Wanderer.tsx"/>
+ <tileset firstgid="8" source="../../../../Slick2DUnixGame_TEST1/src/slick2dunixgame/resources/Wooden Wall.tsx"/>
+ <layer name="Tile Layer 1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztltEKgCAMRadh+f9fHEGChKypdznDh5FajONZ6DwR+TuiwUhs26A4mHcafAGYK/HlayNdSvi+Ds63hf9P4s8q4yz+RnP8hQ/FijoD0f5K95M2H3f/lPJx81Y+icOamu2G66vhD8kXC+PW2qzzefFZ4LPKKO2vkD27Bp80nvvo3ddM9UXk0/J3jR3zXU2PoOGPYxvtz2V8KE6kP0f9jOHxfFuv4UMHOv8JdggQPw==
+  </data>
+ </layer>
+</map>
