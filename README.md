@@ -1,7 +1,7 @@
 Chris McCarty
 Ben Blumenthal
 
-This is Project Obelisk, our final project for Intro to Unix. The game can be played by either running she bash script named "start.sh", or entering the following command in your terminal:
+This is Project Obelisk, our final project for Intro to Unix. The game can be played by either running the bash script named "start.sh", or entering the following command in your terminal:
 
 	$ java -jar project_obelisk.jar
 
