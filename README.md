@@ -9,7 +9,10 @@ $ java -jar project_obelisk.jar
 current or you are in the wrong directory.
 
 
-	The game itself is a 2D top-down hack and slash style game, with the player's goal being the collection of points. We used the Slick2D library, which is an open source 2D game library for java. (http://www.slick2d.org/) With it, we developed everything about our game. Everything from the sprites to the mechanics to the animations was done by us for this class. 
+	The game itself is a 2D top-down hack and slash style game, with the player's goal being the collection of points. Points are gained by killing enemies(10) or collecting coins(100). Health is regained by either destroying berry bushes and eating berries, or killing wanderers and eating steaks.
+	
+	
+	We used the Slick2D library, which is an open source 2D game library for java. (http://www.slick2d.org/) With it, we developed everything about our game. Everything from the sprites to the mechanics to the animations was done by us for this class. 
 
 
 	We had thought initially that this project was due later than it really was, so we were forced to scrap several features we wanted to implement like puzzles, additional weapons, and an online mode. Also, as we found out, the complexity and workload of this type of game increase nearly exponentially. The fact that we had to rush to polish off the game and neatly axe partially implemented features made for some messy source code. We sacrificed style for functionality in this case, especially because the majority of people who ever see this game will just run the jar and be done with it.
